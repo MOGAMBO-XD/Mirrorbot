@@ -168,7 +168,7 @@ In each single file there is a major change from base code, it's almost totally 
 - Clone this repo:
 
 ```
-git clone https://github.com/MOGAMBO-XD/Mirrorbot Mirrorbot/ && cd mirrorbot
+git clone https://github.com/MOGAMBO-XD/Mirrorbot Mirrorbot/ && cd Mirrorbot
 ```
 
 - For Debian based distros
